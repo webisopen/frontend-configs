@@ -2,13 +2,13 @@
 		"title": "RSS3 VSL Mainnet",
 		"url": "https://scan.rss3.io/",
 		"group": "Mainnets",
-		"icon": "https://scan.rss3.io/assets/network_logo_dark.svg",
+		"icon": "https://raw.githubusercontent.com/RSS3-Network/frontend-configs/main/configs/network-icons/rss3-vsl.svg",
 		"isActive": true
 	},
 	{
 		"title": "RSS3 VSL Testnet",
 		"url": "https://scan.testnet.rss3.io/",
 		"group": "Mainnets",
-		"icon": "https://scan.testnet.rss3.io/assets/network_logo_dark.svg"
+		"icon": "https://raw.githubusercontent.com/RSS3-Network/frontend-configs/main/configs/network-icons/rss3-vsl.svg"
 	}
 ]
