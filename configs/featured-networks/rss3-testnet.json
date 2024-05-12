@@ -5,7 +5,7 @@
 		"icon": "https://raw.githubusercontent.com/RSS3-Network/frontend-configs/main/configs/network-icons/rss3-vsl.svg"
 	},
 	{
-		"title": "RSS3 VSL Testnet",
+		"title": "RSS3 VSL Sepolia Testnet",
 		"url": "https://scan.testnet.rss3.io/",
 		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/RSS3-Network/frontend-configs/main/configs/network-icons/rss3-vsl.svg",
