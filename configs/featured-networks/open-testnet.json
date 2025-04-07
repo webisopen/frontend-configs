@@ -5,8 +5,8 @@
   "icon": "https://raw.githubusercontent.com/webisopen/frontend-configs/refs/heads/main/configs/network-icons/OPEN.svg"
 },
   {
-    "title": "OpenChain Sepolia Testnet",
-    "url": "https://scan.devnet.open.network",
+    "title": "OpenChain Lagu Testnet",
+    "url": "https://scan.lagu.open.network",
     "group": "Mainnets",
     "icon": "https://raw.githubusercontent.com/webisopen/frontend-configs/refs/heads/main/configs/network-icons/OPEN.svg",
     "isActive": true
