@@ -1,9 +1,4 @@
-[{
-  "title": "OpenChain Mainnet",
-  "url": "https://scan.open.network",
-  "group": "Mainnets",
-  "icon": "https://raw.githubusercontent.com/webisopen/frontend-configs/refs/heads/main/configs/network-icons/OPEN.svg"
-},
+[
   {
     "title": "OpenChain Lagu Testnet",
     "url": "https://scan.lagu.open.network",
